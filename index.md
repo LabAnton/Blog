@@ -1,1 +1,1 @@
-title: Idea workshop
+title: "Idea workshop"
